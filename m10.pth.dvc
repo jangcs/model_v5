@@ -1,0 +1,4 @@
+outs:
+- md5: 444e88b6084de80f3f5cb2820d6cfc25
+  size: 121116685
+  path: m10.pth
