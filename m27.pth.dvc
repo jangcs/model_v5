@@ -1,0 +1,4 @@
+outs:
+- md5: 1e6d0a5bfe0d073d827a2d16b8124cc8
+  size: 161490464
+  path: m27.pth
